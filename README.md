@@ -1,2 +1,2 @@
 # first-agent1
-Create First Agent Using OpenAI Agents SDK.
+Create First CLI based AI Agent Using UV and OpenAI Agents SDK.
